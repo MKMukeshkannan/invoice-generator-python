@@ -34,7 +34,7 @@ data.</p>
      </p>
      
 <h3>Room for Improvement</h3>
-<p>This project has a long way to go. we can add complete inventory control feature that keeps deducts product count from inventory database as we make an invoice.
+<p>This project has a long way to go. we can add complete inventory control feature that keeps track of products in inventory and deducts product count from inventory database as we make an invoice.
 This feature will help us to maintain <em>inventory stock</em> easy.we can make the software generate the invoice in <em>pdf format</em> so that it can be printed.An feature to 
 make complete sale report annually and for each customer separately and many more......</p>
      
